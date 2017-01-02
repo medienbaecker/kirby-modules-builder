@@ -4,6 +4,10 @@ This little plugin adds a hook that creates/removes the modules container for th
 
 The recommended subpage builder only creates the container when adding a new page with a specific template. Not when you change the template.
 
+## Installation
+
+Install it via the Kirby CLI or put the `modules-builder.php` in your `site/plugins` folder.
+
 ## Options
 
 The watched page templates:

@@ -1,0 +1,8 @@
+{
+  "name": "kirby-modules-builder",
+  "description": "Automatically create/remove the modules container anytime you update a page.",
+  "author": "Thomas Günther <mail@medienbaecker.com>",
+  "version": "1.0.0",
+  "type": "kirby-plugin",
+  "license": "MIT"
+}
